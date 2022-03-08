@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+.nav {
+    text-align: center;
+    font-size: 2em;
+}
+
+.nav li {
+    display: inline;
+}
+/*
+.nav ul {
+    padding-bottom: 2rem;
+}
+*/
+.nav a {
+    text-decoration: none;
+    padding-top: 0;
+    padding: 1.5em;
+}
+
+.main-header img {
+    padding: 10rem;
+}
+
+.main-picture {
+    border-radius: 20px;
+}
+
+.main-header {
+    text-align: center;
+    background-color: rgb (0, 0, 0, 0.6);
+    background-image: url(./images/jefferson-santos-9SoCnyQmkzI-unsplash.jpg);
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding: 2rem;
+    color: white;
+    font-size: 40px;
+}
+
+.container {
+    padding: 2rem;
+    margin: 2rem;
+}
+
+header h1 {
+    padding: 2rem;
+}
+
+header p {
+    padding: 2rem;
+}
