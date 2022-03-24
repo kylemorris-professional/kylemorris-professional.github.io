@@ -28,7 +28,7 @@
 }
 
 .main-picture {
-    border-radius: 20px;
+    border-radius: 20px; /*why does this not work */
 }
 
 .main-header {
@@ -45,6 +45,7 @@
 .container {
     padding: 2rem;
     margin: 2rem;
+    border-bottom: solid 1px;
 }
 
 header h1 {
@@ -56,7 +57,6 @@ header p {
 }
 
 .last-discripter {
-    padding: 100px;
 }
 
 .discripter {
