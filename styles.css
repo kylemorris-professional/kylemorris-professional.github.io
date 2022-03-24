@@ -54,3 +54,12 @@ header h1 {
 header p {
     padding: 2rem;
 }
+
+.last-discripter {
+    padding: 100px;
+}
+
+.discripter {
+    padding: 1em;
+    border-right: 1px solid;
+}
